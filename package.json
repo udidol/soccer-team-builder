@@ -1,0 +1,18 @@
+{
+  "name": "soccer-team-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "terser": "^5.48.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "choices.js": "^11.2.3"
+  }
+}

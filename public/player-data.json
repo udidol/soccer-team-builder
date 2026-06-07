@@ -1,0 +1,10346 @@
+[
+  {
+    "country": "Czech Republic",
+    "firstName": "Matěj",
+    "lastName": "Kovář",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "David",
+    "lastName": "Zima",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Tomáš",
+    "lastName": "Holeš",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Robin",
+    "lastName": "Hranáč",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Vladimír",
+    "lastName": "Coufal",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Štěpán",
+    "lastName": "Chaloupek",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Ladislav",
+    "lastName": "Krejčí",
+    "positions": [
+      "LM",
+      "LW"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Vladimír",
+    "lastName": "Darida",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Adam",
+    "lastName": "Hložek",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Patrik",
+    "lastName": "Schick",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Jan",
+    "lastName": "Kuchta",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Lukáš",
+    "lastName": "Červ",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Mojmír",
+    "lastName": "Chytil",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "David",
+    "lastName": "Jurásek",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Pavel",
+    "lastName": "Šulc",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Jindřich",
+    "lastName": "Staněk",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Lukáš",
+    "lastName": "Provod",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Michal",
+    "lastName": "Sadílek",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Tomáš",
+    "lastName": "Chorý",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Jaroslav",
+    "lastName": "Zelený",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "David",
+    "lastName": "Douděra",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Tomáš",
+    "lastName": "Souček",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Lukáš",
+    "lastName": "Horníček",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Alexandr",
+    "lastName": "Sojka",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Hugo",
+    "lastName": "Sochůrek",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "firstName": "Denis",
+    "lastName": "Višinský",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Raúl",
+    "lastName": "Rangel",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Jorge",
+    "lastName": "Sánchez",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "César",
+    "lastName": "Montes",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Edson",
+    "lastName": "Álvarez",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Johan",
+    "lastName": "Vásquez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Érik",
+    "lastName": "Lira",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Luis",
+    "lastName": "Romo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Álvaro",
+    "lastName": "Fidalgo",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Raúl",
+    "lastName": "Jiménez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Alexis",
+    "lastName": "Vega",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Santiago",
+    "lastName": "Giménez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Carlos",
+    "lastName": "Acevedo",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Guillermo",
+    "lastName": "Ochoa",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Armando",
+    "lastName": "González",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Israel",
+    "lastName": "Reyes",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Julián",
+    "lastName": "Quiñones",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Orbelín",
+    "lastName": "Pineda",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Obed",
+    "lastName": "Vargas",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Gilberto",
+    "lastName": "Mora",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Mateo",
+    "lastName": "Chávez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "César",
+    "lastName": "Huerta",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Guillermo",
+    "lastName": "Martínez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Jesús",
+    "lastName": "Gallardo",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Luis",
+    "lastName": "Chávez",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Roberto",
+    "lastName": "Alvarado",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "firstName": "Brian",
+    "lastName": "Gutiérrez",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Ronwen",
+    "lastName": "Williams",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Thabang",
+    "lastName": "Matuludi",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Khulumani",
+    "lastName": "Ndamane",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Teboho",
+    "lastName": "Mokoena",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Thalente",
+    "lastName": "Mbatha",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Aubrey",
+    "lastName": "Modiba",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Oswin",
+    "lastName": "Appollis",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Tshepang",
+    "lastName": "Moremi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Lyle",
+    "lastName": "Foster",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Relebohile",
+    "lastName": "Mofokeng",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Themba",
+    "lastName": "Zwane",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Thapelo",
+    "lastName": "Maseko",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Sphephelo",
+    "lastName": "Sithole",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Mbekezeli",
+    "lastName": "Mbokazi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Iqraam",
+    "lastName": "Rayners",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Sipho",
+    "lastName": "Chaine",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Evidence",
+    "lastName": "Makgopa",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Samukele",
+    "lastName": "Kabini",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Nkosinathi",
+    "lastName": "Sibisi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Khuliso",
+    "lastName": "Mudau",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Ime",
+    "lastName": "Okon",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Ricardo",
+    "lastName": "Goss",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Jayden",
+    "lastName": "Adams",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Olwethu",
+    "lastName": "Makhanya",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Kamogelo",
+    "lastName": "Sebelebele",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "firstName": "Bradley",
+    "lastName": "Cross",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Kim",
+    "lastName": "Seung-gyu",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Han-beom",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Gi-hyuk",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Kim",
+    "lastName": "Min-jae",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Kim",
+    "lastName": "Tae-hyeon",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Hwang",
+    "lastName": "In-beom",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Son",
+    "lastName": "Heung-min",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Paik",
+    "lastName": "Seung-ho",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Cho",
+    "lastName": "Gue-sung",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Jae-sung",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Hwang",
+    "lastName": "Hee-chan",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Song",
+    "lastName": "Bum-keun",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Tae-seok",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Cho",
+    "lastName": "Wi-je",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Kim",
+    "lastName": "Moon-hwan",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Park",
+    "lastName": "Jin-seob",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Bae",
+    "lastName": "Jun-ho",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Oh",
+    "lastName": "Hyeon-gyu",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Kang-in",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Yang",
+    "lastName": "Hyun-jun",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Jo",
+    "lastName": "Hyeon-woo",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Seol",
+    "lastName": "Young-woo",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Jens",
+    "lastName": "Castrop",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Kim",
+    "lastName": "Jin-gyu",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Eom",
+    "lastName": "Ji-sung",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "firstName": "Lee",
+    "lastName": "Dong-gyeong",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Nikola",
+    "lastName": "Vasilj",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Nihad",
+    "lastName": "Mujakić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Dennis",
+    "lastName": "Hadžikadunić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Tarik",
+    "lastName": "Muharemović",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Sead",
+    "lastName": "Kolašinac",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Benjamin",
+    "lastName": "Tahirović",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Amar",
+    "lastName": "Dedić",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Armin",
+    "lastName": "Gigović",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Samed",
+    "lastName": "Baždar",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Ermedin",
+    "lastName": "Demirović",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Edin",
+    "lastName": "Džeko",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Mladen",
+    "lastName": "Jurkas",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Ivan",
+    "lastName": "Bašić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Ivan",
+    "lastName": "Šunjić",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Amar",
+    "lastName": "Memić",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Amir",
+    "lastName": "Hadžiahmetović",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Dženis",
+    "lastName": "Burnić",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Nikola",
+    "lastName": "Katić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Kerim",
+    "lastName": "Alajbegović",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Esmir",
+    "lastName": "Bajraktarević",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Stjepan",
+    "lastName": "Radeljić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Martin",
+    "lastName": "Zlomislić",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Haris",
+    "lastName": "Tabaković",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Nidal",
+    "lastName": "Čelik",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Jovo",
+    "lastName": "Lukić",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "firstName": "Ermin",
+    "lastName": "Mahmić",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Dayne",
+    "lastName": "St. Clair",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Alistair",
+    "lastName": "Johnston",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Alfie",
+    "lastName": "Jones",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Luc",
+    "lastName": "de Fougerolles",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Joel",
+    "lastName": "Waterman",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Mathieu",
+    "lastName": "Choinière",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Stephen",
+    "lastName": "Eustáquio",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Ismaël",
+    "lastName": "Koné",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Cyle",
+    "lastName": "Larin",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Jonathan",
+    "lastName": "David",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Liam",
+    "lastName": "Millar",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Tani",
+    "lastName": "Oluwaseyi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Derek",
+    "lastName": "Cornelius",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Jacob",
+    "lastName": "Shaffelburg",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Moïse",
+    "lastName": "Bombito",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Maxime",
+    "lastName": "Crépeau",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Tajon",
+    "lastName": "Buchanan",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Owen",
+    "lastName": "Goodman",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Alphonso",
+    "lastName": "Davies",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Ali",
+    "lastName": "Ahmed",
+    "positions": [
+      "LM",
+      "LW"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Jonathan",
+    "lastName": "Osorio",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Richie",
+    "lastName": "Laryea",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Niko",
+    "lastName": "Sigur",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Promise",
+    "lastName": "David",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Canada",
+    "firstName": "Nathan",
+    "lastName": "Saliba",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Mahmud",
+    "lastName": "Abunada",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Pedro",
+    "lastName": "Miguel",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Lucas",
+    "lastName": "Mendes",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Issa",
+    "lastName": "Laye",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Jassem",
+    "lastName": "Gaber",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Abdulaziz",
+    "lastName": "Hatem",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Ahmed",
+    "lastName": "Alaaeldin",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Edmilson",
+    "lastName": "Junior",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Mohammed",
+    "lastName": "Muntari",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Hassan",
+    "lastName": "Al-Haydos",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Akram",
+    "lastName": "Afif",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Karim",
+    "lastName": "Boudiaf",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Ayoub",
+    "lastName": "Al-Oui",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Homam",
+    "lastName": "Ahmed",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Yusuf",
+    "lastName": "Abdurisag",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Boualem",
+    "lastName": "Khoukhi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Ahmed",
+    "lastName": "Al-Ganehi",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Sultan",
+    "lastName": "Al-Brake",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Almoez",
+    "lastName": "Ali",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Ahmed",
+    "lastName": "Fathy",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Salah",
+    "lastName": "Zakaria",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Meshaal",
+    "lastName": "Barsham",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Assim",
+    "lastName": "Madibo",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Tahsin",
+    "lastName": "Jamshid",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Al-Hashmi",
+    "lastName": "Al-Hussain",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "firstName": "Mohamed",
+    "lastName": "Manai",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Gregor",
+    "lastName": "Kobel",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Miro",
+    "lastName": "Muheim",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Silvan",
+    "lastName": "Widmer",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Nico",
+    "lastName": "Elvedi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Manuel",
+    "lastName": "Akanji",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Denis",
+    "lastName": "Zakaria",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Breel",
+    "lastName": "Embolo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Remo",
+    "lastName": "Freuler",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Johan",
+    "lastName": "Manzambi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Granit",
+    "lastName": "Xhaka",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Dan",
+    "lastName": "Ndoye",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Yvon",
+    "lastName": "Mvogo",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Ricardo",
+    "lastName": "Rodriguez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Ardon",
+    "lastName": "Jashari",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Djibril",
+    "lastName": "Sow",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Christian",
+    "lastName": "Fassnacht",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Rubén",
+    "lastName": "Vargas",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Eray",
+    "lastName": "Cömert",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Noah",
+    "lastName": "Okafor",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Michel",
+    "lastName": "Aebischer",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Marvin",
+    "lastName": "Keller",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Fabian",
+    "lastName": "Rieder",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Zeki",
+    "lastName": "Amdouni",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Aurèle",
+    "lastName": "Amenda",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Luca",
+    "lastName": "Jaquez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "firstName": "Cedric",
+    "lastName": "Itten",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Alisson",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Wesley",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Gabriel",
+    "lastName": "Magalhães",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Marquinhos",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Casemiro",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Alex",
+    "lastName": "Sandro",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Vinícius",
+    "lastName": "Júnior",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Bruno",
+    "lastName": "Guimarães",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Matheus",
+    "lastName": "Cunha",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Neymar",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Raphinha",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Weverton",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Danilo",
+    "lastName": "Luiz",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Bremer",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Léo",
+    "lastName": "Pereira",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Douglas",
+    "lastName": "Santos",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Fabinho",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Danilo",
+    "lastName": "Santos",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Endrick",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Lucas",
+    "lastName": "Paquetá",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Luiz",
+    "lastName": "Henrique",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Gabriel",
+    "lastName": "Martinelli",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Ederson",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Roger",
+    "lastName": "Ibañez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "Igor",
+    "lastName": "Thiago",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "firstName": "",
+    "lastName": "Rayan",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Johny",
+    "lastName": "Placide",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Carlens",
+    "lastName": "Arcus",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Keeto",
+    "lastName": "Thermoncy",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Ricardo",
+    "lastName": "Adé",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Hannes",
+    "lastName": "Delcroix",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Carl",
+    "lastName": "Sainté",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Derrick",
+    "lastName": "Etienne Jr.",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Martin",
+    "lastName": "Expérience",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Duckens",
+    "lastName": "Nazon",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Jean-Ricner",
+    "lastName": "Bellegarde",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Louicius",
+    "lastName": "Deedson",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Alexandre",
+    "lastName": "Pierre",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Duke",
+    "lastName": "Lacroix",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Leverton",
+    "lastName": "Pierre",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Ruben",
+    "lastName": "Providence",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Lenny",
+    "lastName": "Joseph",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Danley",
+    "lastName": "Jean Jacques",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Wilson",
+    "lastName": "Isidor",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Yassin",
+    "lastName": "Fortuné",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Frantzdy",
+    "lastName": "Pierrot",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Josué",
+    "lastName": "Casimir",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Jean-Kévin",
+    "lastName": "Duverne",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Josué",
+    "lastName": "Duverger",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Wilguens",
+    "lastName": "Paugain",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Dominique",
+    "lastName": "Simon",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "firstName": "Woodensky",
+    "lastName": "Pierre",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Yassine",
+    "lastName": "Bounou",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Achraf",
+    "lastName": "Hakimi",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Noussair",
+    "lastName": "Mazraoui",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Sofyan",
+    "lastName": "Amrabat",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Nayef",
+    "lastName": "Aguerd",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Ayyoub",
+    "lastName": "Bouaddi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Chemsdine",
+    "lastName": "Talbi",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Azzedine",
+    "lastName": "Ounahi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Soufiane",
+    "lastName": "Rahimi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Brahim",
+    "lastName": "Díaz",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Ismael",
+    "lastName": "Saibari",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Munir",
+    "lastName": "Mohamedi",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Zakaria",
+    "lastName": "El Ouahdi",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Issa",
+    "lastName": "Diop",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Samir",
+    "lastName": "El Mourabet",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Gessime",
+    "lastName": "Yassine",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Abde",
+    "lastName": "Ezzalzouli",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Chadi",
+    "lastName": "Riad",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Youssef",
+    "lastName": "Belammari",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Ayoub",
+    "lastName": "El Kaabi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Ayoube",
+    "lastName": "Amaimouni",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Ahmed",
+    "lastName": "Reda Tagnaouti",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Bilal",
+    "lastName": "El Khannouss",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Neil",
+    "lastName": "El Aynaoui",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Redouane",
+    "lastName": "Halhal",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "firstName": "Anass",
+    "lastName": "Salah-Eddine",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Angus",
+    "lastName": "Gunn",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Aaron",
+    "lastName": "Hickey",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Andy",
+    "lastName": "Robertson",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Scott",
+    "lastName": "McTominay",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Grant",
+    "lastName": "Hanley",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Kieran",
+    "lastName": "Tierney",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "John",
+    "lastName": "McGinn",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Tyler",
+    "lastName": "Fletcher",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Lyndon",
+    "lastName": "Dykes",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Ché",
+    "lastName": "Adams",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Ryan",
+    "lastName": "Christie",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Liam",
+    "lastName": "Kelly",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Jack",
+    "lastName": "Hendry",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Ross",
+    "lastName": "Stewart",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "John",
+    "lastName": "Souttar",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Dominic",
+    "lastName": "Hyam",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Ben",
+    "lastName": "Gannon-Doak",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "George",
+    "lastName": "Hirst",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Lewis",
+    "lastName": "Ferguson",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Lawrence",
+    "lastName": "Shankland",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Craig",
+    "lastName": "Gordon",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Nathan",
+    "lastName": "Patterson",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Kenny",
+    "lastName": "McLean",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Anthony",
+    "lastName": "Ralston",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Findlay",
+    "lastName": "Curtis",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Scotland",
+    "firstName": "Scott",
+    "lastName": "McKenna",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Mathew",
+    "lastName": "Ryan",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Miloš",
+    "lastName": "Degenek",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Alessandro",
+    "lastName": "Circati",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Jacob",
+    "lastName": "Italiano",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Jordan",
+    "lastName": "Bos",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Jason",
+    "lastName": "Geria",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Mathew",
+    "lastName": "Leckie",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Connor",
+    "lastName": "Metcalfe",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Mohamed",
+    "lastName": "Touré",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Ajdin",
+    "lastName": "Hrustic",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Awer",
+    "lastName": "Mabil",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Paul",
+    "lastName": "Izzo",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Aiden",
+    "lastName": "O'Neill",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Cammy",
+    "lastName": "Devlin",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Kai",
+    "lastName": "Trewin",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Aziz",
+    "lastName": "Behich",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Nestory",
+    "lastName": "Irankunda",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Patrick",
+    "lastName": "Beach",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Harry",
+    "lastName": "Souttar",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Cristian",
+    "lastName": "Volpato",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Cameron",
+    "lastName": "Burgess",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Jackson",
+    "lastName": "Irvine",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Nishan",
+    "lastName": "Velupillay",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Paul",
+    "lastName": "Okon-Engstler",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Lucas",
+    "lastName": "Herrington",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Australia",
+    "firstName": "Tete",
+    "lastName": "Yengi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gatito",
+    "lastName": "Fernández",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gustavo",
+    "lastName": "Velázquez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Omar",
+    "lastName": "Alderete",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Juan",
+    "lastName": "José Cáceres",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Fabián",
+    "lastName": "Balbuena",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Júnior",
+    "lastName": "Alonso",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Ramón",
+    "lastName": "Sosa",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Diego",
+    "lastName": "Gómez",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Antonio",
+    "lastName": "Sanabria",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Miguel",
+    "lastName": "Almirón",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "",
+    "lastName": "Maurício",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Orlando",
+    "lastName": "Gill",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "José",
+    "lastName": "Canale",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Andrés",
+    "lastName": "Cubas",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gustavo",
+    "lastName": "Gómez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Damián",
+    "lastName": "Bobadilla",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "",
+    "lastName": "Kaku",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Álex",
+    "lastName": "Arce",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Julio",
+    "lastName": "Enciso",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Braian",
+    "lastName": "Ojeda",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gabriel",
+    "lastName": "Ávalos",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gastón",
+    "lastName": "Olveira",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Matías",
+    "lastName": "Galarza",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Gustavo",
+    "lastName": "Caballero",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Isidro",
+    "lastName": "Pitta",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "firstName": "Alexandro",
+    "lastName": "Maidana",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Mert",
+    "lastName": "Günok",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Zeki",
+    "lastName": "Çelik",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Merih",
+    "lastName": "Demiral",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Çağlar",
+    "lastName": "Söyüncü",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Salih",
+    "lastName": "Özcan",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Orkun",
+    "lastName": "Kökçü",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Kerem",
+    "lastName": "Aktürkoğlu",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Arda",
+    "lastName": "Güler",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Deniz",
+    "lastName": "Gül",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Hakan",
+    "lastName": "Çalhanoğlu",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Kenan",
+    "lastName": "Yıldız",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Altay",
+    "lastName": "Bayındır",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Eren",
+    "lastName": "Elmalı",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Abdülkerim",
+    "lastName": "Bardakcı",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Ozan",
+    "lastName": "Kabak",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "İsmail",
+    "lastName": "Yüksek",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "İrfan",
+    "lastName": "Can Kahveci",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Mert",
+    "lastName": "Müldür",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Yunus",
+    "lastName": "Akgün",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Ferdi",
+    "lastName": "Kadıoğlu",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Barış",
+    "lastName": "Alper Yılmaz",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Kaan",
+    "lastName": "Ayhan",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Uğurcan",
+    "lastName": "Çakır",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Oğuz",
+    "lastName": "Aydın",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Samet",
+    "lastName": "Akaydin",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "firstName": "Can",
+    "lastName": "Uzun",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Matt",
+    "lastName": "Turner",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Sergiño",
+    "lastName": "Dest",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Chris",
+    "lastName": "Richards",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Tyler",
+    "lastName": "Adams",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Antonee",
+    "lastName": "Robinson",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Auston",
+    "lastName": "Trusty",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Giovanni",
+    "lastName": "Reyna",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Weston",
+    "lastName": "McKennie",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Ricardo",
+    "lastName": "Pepi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Christian",
+    "lastName": "Pulisic",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Brenden",
+    "lastName": "Aaronson",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Miles",
+    "lastName": "Robinson",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Tim",
+    "lastName": "Ream",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Sebastian",
+    "lastName": "Berhalter",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Cristian",
+    "lastName": "Roldan",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Alex",
+    "lastName": "Freeman",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Malik",
+    "lastName": "Tillman",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Maximilian",
+    "lastName": "Arfsten",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Haji",
+    "lastName": "Wright",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Folarin",
+    "lastName": "Balogun",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Timothy",
+    "lastName": "Weah",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Mark",
+    "lastName": "McKenzie",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Joe",
+    "lastName": "Scally",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Matt",
+    "lastName": "Freese",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Chris",
+    "lastName": "Brady",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "United States",
+    "firstName": "Alejandro",
+    "lastName": "Zendejas",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Eloy",
+    "lastName": "Room",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Shurandy",
+    "lastName": "Sambo",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Juriën",
+    "lastName": "Gaari",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Roshon",
+    "lastName": "van Eijma",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Sherel",
+    "lastName": "Floranus",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Godfried",
+    "lastName": "Roemeratoe",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Juninho",
+    "lastName": "Bacuna",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Livano",
+    "lastName": "Comenencia",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Jürgen",
+    "lastName": "Locadia",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Leandro",
+    "lastName": "Bacuna",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Jeremy",
+    "lastName": "Antonisse",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Sontje",
+    "lastName": "Hansen",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Tyrese",
+    "lastName": "Noslin",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Kenji",
+    "lastName": "Gorré",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Ar'jany",
+    "lastName": "Martha",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Jearl",
+    "lastName": "Margaritha",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Brandley",
+    "lastName": "Kuwas",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Armando",
+    "lastName": "Obispo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Gervane",
+    "lastName": "Kastaneer",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Joshua",
+    "lastName": "Brenet",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Tahith",
+    "lastName": "Chong",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Kevin",
+    "lastName": "Felida",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Riechedly",
+    "lastName": "Bazoer",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Deveron",
+    "lastName": "Fonville",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Tyrick",
+    "lastName": "Bodak",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "firstName": "Trevor",
+    "lastName": "Doornbusch",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Hernán",
+    "lastName": "Galíndez",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Félix",
+    "lastName": "Torres",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Piero",
+    "lastName": "Hincapié",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Joel",
+    "lastName": "Ordóñez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Jordy",
+    "lastName": "Alcívar",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Willian",
+    "lastName": "Pacho",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Pervis",
+    "lastName": "Estupiñán",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Anthony",
+    "lastName": "Valencia",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "John",
+    "lastName": "Yeboah",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Kendry",
+    "lastName": "Páez",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Kevin",
+    "lastName": "Rodríguez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Moisés",
+    "lastName": "Ramírez",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Enner",
+    "lastName": "Valencia",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Alan",
+    "lastName": "Minda",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Pedro",
+    "lastName": "Vite",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Jordy",
+    "lastName": "Caicedo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Ángelo",
+    "lastName": "Preciado",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Denil",
+    "lastName": "Castillo",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Gonzalo",
+    "lastName": "Plata",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Nilson",
+    "lastName": "Angulo",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Alan",
+    "lastName": "Franco",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Gonzalo",
+    "lastName": "Valle",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Moisés",
+    "lastName": "Caicedo",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Jeremy",
+    "lastName": "Arévalo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Jackson",
+    "lastName": "Porozo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "firstName": "Yaimar",
+    "lastName": "Medina",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Manuel",
+    "lastName": "Neuer",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Antonio",
+    "lastName": "Rüdiger",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Waldemar",
+    "lastName": "Anton",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Jonathan",
+    "lastName": "Tah",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Aleksandar",
+    "lastName": "Pavlović",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Joshua",
+    "lastName": "Kimmich",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Kai",
+    "lastName": "Havertz",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Leon",
+    "lastName": "Goretzka",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Jamie",
+    "lastName": "Leweling",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Jamal",
+    "lastName": "Musiala",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Nick",
+    "lastName": "Woltemade",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Oliver",
+    "lastName": "Baumann",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Pascal",
+    "lastName": "Groß",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Maximilian",
+    "lastName": "Beier",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Nico",
+    "lastName": "Schlotterbeck",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Angelo",
+    "lastName": "Stiller",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Florian",
+    "lastName": "Wirtz",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Nathaniel",
+    "lastName": "Brown",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Leroy",
+    "lastName": "Sané",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Nadiem",
+    "lastName": "Amiri",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Alexander",
+    "lastName": "Nübel",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "David",
+    "lastName": "Raum",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Felix",
+    "lastName": "Nmecha",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Malick",
+    "lastName": "Thiaw",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Lennart",
+    "lastName": "Karl",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Germany",
+    "firstName": "Deniz",
+    "lastName": "Undav",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Yahia",
+    "lastName": "Fofana",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Ousmane",
+    "lastName": "Diomande",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Ghislain",
+    "lastName": "Konan",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Jean",
+    "lastName": "Michaël Seri",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Wilfried",
+    "lastName": "Singo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Seko",
+    "lastName": "Fofana",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Odilon",
+    "lastName": "Kossounou",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Franck",
+    "lastName": "Kessié",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Ange-Yoan",
+    "lastName": "Bonny",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Simon",
+    "lastName": "Adingra",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Yan",
+    "lastName": "Diomande",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Elye",
+    "lastName": "Wahi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Christopher",
+    "lastName": "Opéri",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Oumar",
+    "lastName": "Diakité",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Amad",
+    "lastName": "Diallo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Mohamed",
+    "lastName": "Koné",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Guéla",
+    "lastName": "Doué",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Ibrahim",
+    "lastName": "Sangaré",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Nicolas",
+    "lastName": "Pépé",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Emmanuel",
+    "lastName": "Agbadou",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Evan",
+    "lastName": "Ndicka",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Evann",
+    "lastName": "Guessand",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Alban",
+    "lastName": "Lafont",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Bazoumana",
+    "lastName": "Touré",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Parfait",
+    "lastName": "Guiagon",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "firstName": "Christ",
+    "lastName": "Inao Oulaï",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Zion",
+    "lastName": "Suzuki",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Yukinari",
+    "lastName": "Sugawara",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Shōgo",
+    "lastName": "Taniguchi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Kō",
+    "lastName": "Itakura",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Yūto",
+    "lastName": "Nagatomo",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Wataru",
+    "lastName": "Endo",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Ao",
+    "lastName": "Tanaka",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Takefusa",
+    "lastName": "Kubo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Keisuke",
+    "lastName": "Gotō",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Ritsu",
+    "lastName": "Dōan",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Daizen",
+    "lastName": "Maeda",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Keisuke",
+    "lastName": "Ōsako",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Keito",
+    "lastName": "Nakamura",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Junya",
+    "lastName": "Itō",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Daichi",
+    "lastName": "Kamada",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Tsuyoshi",
+    "lastName": "Watanabe",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Yuito",
+    "lastName": "Suzuki",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Ayase",
+    "lastName": "Ueda",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Kōki",
+    "lastName": "Ogawa",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Ayumu",
+    "lastName": "Seko",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Hiroki",
+    "lastName": "Itō",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Takehiro",
+    "lastName": "Tomiyasu",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Tomoki",
+    "lastName": "Hayakawa",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Kaishū",
+    "lastName": "Sano",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Junnosuke",
+    "lastName": "Suzuki",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Japan",
+    "firstName": "Kento",
+    "lastName": "Shiogai",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Bart",
+    "lastName": "Verbruggen",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Jurriën",
+    "lastName": "Timber",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Marten",
+    "lastName": "de Roon",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Virgil",
+    "lastName": "van Dijk",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Nathan",
+    "lastName": "Aké",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Jan",
+    "lastName": "Paul van Hecke",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Justin",
+    "lastName": "Kluivert",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Ryan",
+    "lastName": "Gravenberch",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Wout",
+    "lastName": "Weghorst",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Memphis",
+    "lastName": "Depay",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Cody",
+    "lastName": "Gakpo",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Mats",
+    "lastName": "Wieffer",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Robin",
+    "lastName": "Roefs",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Tijjani",
+    "lastName": "Reijnders",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Micky",
+    "lastName": "van de Ven",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Guus",
+    "lastName": "Til",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Noa",
+    "lastName": "Lang",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Brian",
+    "lastName": "Brobbey",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Teun",
+    "lastName": "Koopmeiners",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Frenkie",
+    "lastName": "de Jong",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Denzel",
+    "lastName": "Dumfries",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Mark",
+    "lastName": "Flekken",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Crysencio",
+    "lastName": "Summerville",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Jorrel",
+    "lastName": "Hato",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "firstName": "Quinten",
+    "lastName": "Timber",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Jacob",
+    "lastName": "Widell Zetterström",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Gustaf",
+    "lastName": "Lagerbielke",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Victor",
+    "lastName": "Lindelöf",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Isak",
+    "lastName": "Hien",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Gabriel",
+    "lastName": "Gudmundsson",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Herman",
+    "lastName": "Johansson",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Lucas",
+    "lastName": "Bergvall",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Daniel",
+    "lastName": "Svensson",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Alexander",
+    "lastName": "Isak",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Benjamin",
+    "lastName": "Nygren",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Anthony",
+    "lastName": "Elanga",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Viktor",
+    "lastName": "Johansson",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Ken",
+    "lastName": "Sema",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Hjalmar",
+    "lastName": "Ekdal",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Carl",
+    "lastName": "Starfelt",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Jesper",
+    "lastName": "Karlström",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Viktor",
+    "lastName": "Gyökeres",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Yasin",
+    "lastName": "Ayari",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Mattias",
+    "lastName": "Svanberg",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Eric",
+    "lastName": "Smith",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Alexander",
+    "lastName": "Bernhardsson",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Besfort",
+    "lastName": "Zeneli",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Kristoffer",
+    "lastName": "Nordfeldt",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Elliot",
+    "lastName": "Stroud",
+    "positions": [
+      "LM",
+      "LW"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Gustaf",
+    "lastName": "Nilsson",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "firstName": "Taha",
+    "lastName": "Ali",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Mouhib",
+    "lastName": "Chamakh",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Ali",
+    "lastName": "Abdi",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Montassar",
+    "lastName": "Talbi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Omar",
+    "lastName": "Rekik",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Adem",
+    "lastName": "Arous",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Dylan",
+    "lastName": "Bronn",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Elias",
+    "lastName": "Achouri",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Elias",
+    "lastName": "Saad",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Hazem",
+    "lastName": "Mastouri",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Hannibal",
+    "lastName": "Mejbri",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Ismaël",
+    "lastName": "Gharbi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Mortadha",
+    "lastName": "Ben Ouanes",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Rani",
+    "lastName": "Khedira",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Khalil",
+    "lastName": "Ayari",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Hadj",
+    "lastName": "Mahmoud",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Aymen",
+    "lastName": "Dahmen",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Ellyes",
+    "lastName": "Skhiri",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Rayan",
+    "lastName": "Elloumi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Firas",
+    "lastName": "Chaouat",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Yan",
+    "lastName": "Valery",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Mohamed",
+    "lastName": "Amine Ben Hamida",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Sabri",
+    "lastName": "Ben Hessen",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Moutaz",
+    "lastName": "Neffati",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Raed",
+    "lastName": "Chikhaoui",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Anis",
+    "lastName": "Ben Slimane",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "firstName": "Sebastian",
+    "lastName": "Tounekti",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Thibaut",
+    "lastName": "Courtois",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Zeno",
+    "lastName": "Debast",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Arthur",
+    "lastName": "Theate",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Brandon",
+    "lastName": "Mechele",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Maxim",
+    "lastName": "De Cuyper",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Axel",
+    "lastName": "Witsel",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Kevin",
+    "lastName": "De Bruyne",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Youri",
+    "lastName": "Tielemans",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Romelu",
+    "lastName": "Lukaku",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Leandro",
+    "lastName": "Trossard",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Jérémy",
+    "lastName": "Doku",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Senne",
+    "lastName": "Lammens",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Mike",
+    "lastName": "Penders",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Dodi",
+    "lastName": "Lukébakio",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Thomas",
+    "lastName": "Meunier",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Koni",
+    "lastName": "De Winter",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Charles",
+    "lastName": "De Ketelaere",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Joaquin",
+    "lastName": "Seys",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Diego",
+    "lastName": "Moreira",
+    "positions": [
+      "LM",
+      "LW"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Hans",
+    "lastName": "Vanaken",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Timothy",
+    "lastName": "Castagne",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Alexis",
+    "lastName": "Saelemaekers",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Nicolas",
+    "lastName": "Raskin",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Amadou",
+    "lastName": "Onana",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Nathan",
+    "lastName": "Ngoy",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "firstName": "Matias",
+    "lastName": "Fernandez-Pardo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohamed",
+    "lastName": "El Shenawy",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Yasser",
+    "lastName": "Ibrahim",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohamed",
+    "lastName": "Hany",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Hossam",
+    "lastName": "Abdelmaguid",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Ramy",
+    "lastName": "Rabia",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohamed",
+    "lastName": "Abdelmonem",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "",
+    "lastName": "Trézéguet",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Emam",
+    "lastName": "Ashour",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Hamza",
+    "lastName": "Abdelkarim",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohamed",
+    "lastName": "Salah",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mostafa",
+    "lastName": "Ziko",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Haissem",
+    "lastName": "Hassan",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Ahmed",
+    "lastName": "Fatouh",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Hamdy",
+    "lastName": "Fathy",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Karim",
+    "lastName": "Hafez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "El",
+    "lastName": "Mahdy Soliman",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohanad",
+    "lastName": "Lasheen",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Nabil",
+    "lastName": "Emad",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Marwan",
+    "lastName": "Attia",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Ibrahim",
+    "lastName": "Adel",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mahmoud",
+    "lastName": "Saber",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Omar",
+    "lastName": "Marmoush",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mostafa",
+    "lastName": "Shobeir",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Tarek",
+    "lastName": "Alaa",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "",
+    "lastName": "Zizo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "firstName": "Mohamed",
+    "lastName": "Alaa",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Alireza",
+    "lastName": "Beiranvand",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Saleh",
+    "lastName": "Hardani",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Ehsan",
+    "lastName": "Hajsafi",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Shojae",
+    "lastName": "Khalilzadeh",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Milad",
+    "lastName": "Mohammadi",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Saeid",
+    "lastName": "Ezatolahi",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Alireza",
+    "lastName": "Jahanbakhsh",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Mohammad",
+    "lastName": "Mohebi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Mehdi",
+    "lastName": "Taremi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Mehdi",
+    "lastName": "Ghayedi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Ali",
+    "lastName": "Alipour",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Payam",
+    "lastName": "Niazmand",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Hossein",
+    "lastName": "Kanaanizadegan",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Saman",
+    "lastName": "Ghoddos",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Rouzbeh",
+    "lastName": "Cheshmi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Mehdi",
+    "lastName": "Torabi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Aria",
+    "lastName": "Yousefi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Amirhossein",
+    "lastName": "Hosseinzadeh",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Ali",
+    "lastName": "Nemati",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Shahriyar",
+    "lastName": "Moghanlou",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Mohammad",
+    "lastName": "Ghorbani",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Hossein",
+    "lastName": "Hosseini",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Ramin",
+    "lastName": "Rezaeian",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Dennis",
+    "lastName": "Eckert",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Danial",
+    "lastName": "Eiri",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iran",
+    "firstName": "Amirmohammad",
+    "lastName": "Razzaghinia",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Max",
+    "lastName": "Crocombe",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Tim",
+    "lastName": "Payne",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Francis",
+    "lastName": "de Vries",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Tyler",
+    "lastName": "Bindon",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Michael",
+    "lastName": "Boxall",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Joe",
+    "lastName": "Bell",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Matthew",
+    "lastName": "Garbett",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Marko",
+    "lastName": "Stamenić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Chris",
+    "lastName": "Wood",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Sarpreet",
+    "lastName": "Singh",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Elijah",
+    "lastName": "Just",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Alex",
+    "lastName": "Paulsen",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Liberato",
+    "lastName": "Cacace",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Alex",
+    "lastName": "Rufer",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Nando",
+    "lastName": "Pijnaker",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Finn",
+    "lastName": "Surman",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Kosta",
+    "lastName": "Barbarouses",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Ben",
+    "lastName": "Waine",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Ben",
+    "lastName": "Old",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Callum",
+    "lastName": "McCowatt",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Jesse",
+    "lastName": "Randall",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Michael",
+    "lastName": "Woud",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Ryan",
+    "lastName": "Thomas",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Callan",
+    "lastName": "Elliot",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Lachlan",
+    "lastName": "Bayliss",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "firstName": "Tommy",
+    "lastName": "Smith",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "",
+    "lastName": "Vozinha",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "",
+    "lastName": "Stopira",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "",
+    "lastName": "Diney",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Roberto",
+    "lastName": "Lopes",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Logan",
+    "lastName": "Costa",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Kevin",
+    "lastName": "Pina",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Jovane",
+    "lastName": "Cabral",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "João",
+    "lastName": "Paulo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Gilson",
+    "lastName": "Benchimol",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Jamiro",
+    "lastName": "Monteiro",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Garry",
+    "lastName": "Rodrigues",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Márcio",
+    "lastName": "Rosa",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Sidny",
+    "lastName": "Lopes Cabral",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Deroy",
+    "lastName": "Duarte",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Laros",
+    "lastName": "Duarte",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Yannick",
+    "lastName": "Semedo",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Willy",
+    "lastName": "Semedo",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Telmo",
+    "lastName": "Arcanjo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Dailon",
+    "lastName": "Livramento",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Ryan",
+    "lastName": "Mendes",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Nuno",
+    "lastName": "da Costa",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Steven",
+    "lastName": "Moreira",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "CJ",
+    "lastName": "dos Santos",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Wagner",
+    "lastName": "Pina",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Kelvin",
+    "lastName": "Pires",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "firstName": "Hélio",
+    "lastName": "Varela",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Nawaf",
+    "lastName": "Al-Aqidi",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Ali",
+    "lastName": "Majrashi",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Ali",
+    "lastName": "Lajami",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Abdulelah",
+    "lastName": "Al-Amri",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Hassan",
+    "lastName": "Al-Tambakti",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Nasser",
+    "lastName": "Al-Dawsari",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Musab",
+    "lastName": "Al-Juwayr",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Ayman",
+    "lastName": "Yahya",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Firas",
+    "lastName": "Al-Buraikan",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Salem",
+    "lastName": "Al-Dawsari",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Saleh",
+    "lastName": "Al-Shehri",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Saud",
+    "lastName": "Abdulhamid",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Nawaf",
+    "lastName": "Boushal",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Hassan",
+    "lastName": "Kadesh",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Abdullah",
+    "lastName": "Al-Khaibari",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Ziyad",
+    "lastName": "Al-Johani",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Khalid",
+    "lastName": "Al-Ghannam",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Alaa",
+    "lastName": "Al-Hejji",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Abdullah",
+    "lastName": "Al-Hamdan",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Sultan",
+    "lastName": "Mandash",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Mohammed",
+    "lastName": "Al-Owais",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Ahmed",
+    "lastName": "Al-Kassar",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Mohamed",
+    "lastName": "Kanno",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Moteb",
+    "lastName": "Al-Harbi",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Jehad",
+    "lastName": "Thakri",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "firstName": "Mohammed",
+    "lastName": "Abu Al-Shamat",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "David",
+    "lastName": "Raya",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Marc",
+    "lastName": "Pubill",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Álex",
+    "lastName": "Grimaldo",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Eric",
+    "lastName": "García",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Marcos",
+    "lastName": "Llorente",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Mikel",
+    "lastName": "Merino",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Ferran",
+    "lastName": "Torres",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Fabián",
+    "lastName": "Ruiz",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "",
+    "lastName": "Gavi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Dani",
+    "lastName": "Olmo",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Yéremy",
+    "lastName": "Pino",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Pedro",
+    "lastName": "Porro",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Joan",
+    "lastName": "Garcia",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Aymeric",
+    "lastName": "Laporte",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Álex",
+    "lastName": "Baena",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "",
+    "lastName": "Rodri",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Nico",
+    "lastName": "Williams",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Martín",
+    "lastName": "Zubimendi",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Lamine",
+    "lastName": "Yamal",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "",
+    "lastName": "Pedri",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Mikel",
+    "lastName": "Oyarzabal",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Pau",
+    "lastName": "Cubarsí",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Unai",
+    "lastName": "Simón",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Marc",
+    "lastName": "Cucurella",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Víctor",
+    "lastName": "Muñoz",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Spain",
+    "firstName": "Borja",
+    "lastName": "Iglesias",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Sergio",
+    "lastName": "Rochet",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "José",
+    "lastName": "Giménez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Sebastián",
+    "lastName": "Cáceres",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Ronald",
+    "lastName": "Araújo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Manuel",
+    "lastName": "Ugarte",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Rodrigo",
+    "lastName": "Bentancur",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Nicolás",
+    "lastName": "de la Cruz",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Federico",
+    "lastName": "Valverde",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Darwin",
+    "lastName": "Núñez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Giorgian",
+    "lastName": "de Arrascaeta",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Facundo",
+    "lastName": "Pellistri",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Santiago",
+    "lastName": "Mele",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Guillermo",
+    "lastName": "Varela",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Agustín",
+    "lastName": "Canobbio",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Emiliano",
+    "lastName": "Martínez",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Mathías",
+    "lastName": "Olivera",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Matías",
+    "lastName": "Viña",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Brian",
+    "lastName": "Rodríguez",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Rodrigo",
+    "lastName": "Aguirre",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Maximiliano",
+    "lastName": "Araújo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Federico",
+    "lastName": "Viñas",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Joaquín",
+    "lastName": "Piquerez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Fernando",
+    "lastName": "Muslera",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Santiago",
+    "lastName": "Bueno",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Juan",
+    "lastName": "Manuel Sanabria",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "firstName": "Rodrigo",
+    "lastName": "Zalazar",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Brice",
+    "lastName": "Samba",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Malo",
+    "lastName": "Gusto",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Lucas",
+    "lastName": "Digne",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Dayot",
+    "lastName": "Upamecano",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Jules",
+    "lastName": "Koundé",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Manu",
+    "lastName": "Koné",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Ousmane",
+    "lastName": "Dembélé",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Aurélien",
+    "lastName": "Tchouaméni",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Marcus",
+    "lastName": "Thuram",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Kylian",
+    "lastName": "Mbappé",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Michael",
+    "lastName": "Olise",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Bradley",
+    "lastName": "Barcola",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "N'Golo",
+    "lastName": "Kanté",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Adrien",
+    "lastName": "Rabiot",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Ibrahima",
+    "lastName": "Konaté",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Mike",
+    "lastName": "Maignan",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "William",
+    "lastName": "Saliba",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Warren",
+    "lastName": "Zaïre-Emery",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Théo",
+    "lastName": "Hernandez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Désiré",
+    "lastName": "Doué",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Lucas",
+    "lastName": "Hernandez",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Jean-Philippe",
+    "lastName": "Mateta",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Robin",
+    "lastName": "Risser",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Rayan",
+    "lastName": "Cherki",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Maghnes",
+    "lastName": "Akliouche",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "France",
+    "firstName": "Maxence",
+    "lastName": "Lacroix",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Fahad",
+    "lastName": "Talib",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Rebin",
+    "lastName": "Sulaka",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Hussein",
+    "lastName": "Ali",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Zaid",
+    "lastName": "Tahseen",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Akam",
+    "lastName": "Hashim",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Manaf",
+    "lastName": "Younis",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Youssef",
+    "lastName": "Amyn",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ibrahim",
+    "lastName": "Bayesh",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ali",
+    "lastName": "Al-Hamadi",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Mohanad",
+    "lastName": "Ali",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ahmed",
+    "lastName": "Qasem",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Jalal",
+    "lastName": "Hassan",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ali",
+    "lastName": "Yousif",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Zidane",
+    "lastName": "Iqbal",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ahmed",
+    "lastName": "Yahya",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Amir",
+    "lastName": "Al-Ammari",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ali",
+    "lastName": "Jasim",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Aymen",
+    "lastName": "Hussein",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Kevin",
+    "lastName": "Yakob",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Aimar",
+    "lastName": "Sher",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Marko",
+    "lastName": "Farji",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Ahmed",
+    "lastName": "Basil",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Merchas",
+    "lastName": "Doski",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Zaid",
+    "lastName": "Ismail",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Mustafa",
+    "lastName": "Saadoon",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "firstName": "Frans",
+    "lastName": "Putros",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Ørjan",
+    "lastName": "Nyland",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Morten",
+    "lastName": "Thorsby",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Kristoffer",
+    "lastName": "Ajer",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Leo",
+    "lastName": "Østigård",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "David",
+    "lastName": "Møller Wolfe",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Patrick",
+    "lastName": "Berg",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Alexander",
+    "lastName": "Sørloth",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Sander",
+    "lastName": "Berge",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Erling",
+    "lastName": "Haaland",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Martin",
+    "lastName": "Ødegaard",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Jørgen",
+    "lastName": "Strand Larsen",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Sander",
+    "lastName": "Tangvik",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Egil",
+    "lastName": "Selvik",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Fredrik",
+    "lastName": "Aursnes",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Fredrik",
+    "lastName": "André Bjørkan",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Marcus",
+    "lastName": "Holmgren Pedersen",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Torbjørn",
+    "lastName": "Heggem",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Kristian",
+    "lastName": "Thorstvedt",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Thelo",
+    "lastName": "Aasgaard",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Antonio",
+    "lastName": "Nusa",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Andreas",
+    "lastName": "Schjelderup",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Oscar",
+    "lastName": "Bobb",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Jens",
+    "lastName": "Petter Hauge",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Sondre",
+    "lastName": "Langås",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Henrik",
+    "lastName": "Falchener",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Norway",
+    "firstName": "Julian",
+    "lastName": "Ryerson",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Yehvann",
+    "lastName": "Diouf",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Mamadou",
+    "lastName": "Sarr",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Kalidou",
+    "lastName": "Koulibaly",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Abdoulaye",
+    "lastName": "Seck",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Idrissa",
+    "lastName": "Gueye",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Pathé",
+    "lastName": "Ciss",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Assane",
+    "lastName": "Diao",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Lamine",
+    "lastName": "Camara",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Bamba",
+    "lastName": "Dieng",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Sadio",
+    "lastName": "Mané",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Nicolas",
+    "lastName": "Jackson",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Cherif",
+    "lastName": "Ndiaye",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Iliman",
+    "lastName": "Ndiaye",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Ismail",
+    "lastName": "Jakobs",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Krépin",
+    "lastName": "Diatta",
+    "positions": [
+      "RM",
+      "RW"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Édouard",
+    "lastName": "Mendy",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Pape",
+    "lastName": "Matar Sarr",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Ismaïla",
+    "lastName": "Sarr",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Moussa",
+    "lastName": "Niakhaté",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Ibrahim",
+    "lastName": "Mbaye",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Habib",
+    "lastName": "Diarra",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Bara",
+    "lastName": "Sapoko Ndiaye",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Mory",
+    "lastName": "Diaw",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Antoine",
+    "lastName": "Mendy",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "El",
+    "lastName": "Hadji Malick Diouf",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "firstName": "Pape",
+    "lastName": "Gueye",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Melvin",
+    "lastName": "Mastil",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Aïssa",
+    "lastName": "Mandi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Achref",
+    "lastName": "Abada",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Mohamed",
+    "lastName": "Amine Tougai",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Zineddine",
+    "lastName": "Belaïd",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Ramiz",
+    "lastName": "Zerrouki",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Riyad",
+    "lastName": "Mahrez",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Houssem",
+    "lastName": "Aouar",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Amine",
+    "lastName": "Gouiri",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Farès",
+    "lastName": "Chaïbi",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Anis",
+    "lastName": "Hadj Moussa",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Nadhir",
+    "lastName": "Benbouali",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Jaouen",
+    "lastName": "Hadjam",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Hicham",
+    "lastName": "Boudaoui",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Rayan",
+    "lastName": "Aït-Nouri",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Oussama",
+    "lastName": "Benbot",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Rafik",
+    "lastName": "Belghali",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Mohamed",
+    "lastName": "Amoura",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Nabil",
+    "lastName": "Bentaleb",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Adil",
+    "lastName": "Boulbina",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Ramy",
+    "lastName": "Bensebaini",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Ibrahim",
+    "lastName": "Maza",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Luca",
+    "lastName": "Zidane",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Yacine",
+    "lastName": "Titraoui",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Farès",
+    "lastName": "Ghedjemis",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "firstName": "Samir",
+    "lastName": "Chergui",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Juan",
+    "lastName": "Musso",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Leonardo",
+    "lastName": "Balerdi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Nicolás",
+    "lastName": "Tagliafico",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Gonzalo",
+    "lastName": "Montiel",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Leandro",
+    "lastName": "Paredes",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Lisandro",
+    "lastName": "Martínez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Rodrigo",
+    "lastName": "De Paul",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Valentín",
+    "lastName": "Barco",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Julián",
+    "lastName": "Alvarez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Lionel",
+    "lastName": "Messi",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Giovani",
+    "lastName": "Lo Celso",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Gerónimo",
+    "lastName": "Rulli",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Cristian",
+    "lastName": "Romero",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Exequiel",
+    "lastName": "Palacios",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Nicolás",
+    "lastName": "González",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Thiago",
+    "lastName": "Almada",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Giuliano",
+    "lastName": "Simeone",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Nico",
+    "lastName": "Paz",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Nicolás",
+    "lastName": "Otamendi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Alexis",
+    "lastName": "Mac Allister",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "José",
+    "lastName": "Manuel López",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Lautaro",
+    "lastName": "Martínez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Emiliano",
+    "lastName": "Martínez",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Enzo",
+    "lastName": "Fernández",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Facundo",
+    "lastName": "Medina",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "firstName": "Nahuel",
+    "lastName": "Molina",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Alexander",
+    "lastName": "Schlager",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "David",
+    "lastName": "Affengruber",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Kevin",
+    "lastName": "Danso",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Xaver",
+    "lastName": "Schlager",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Stefan",
+    "lastName": "Posch",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Nicolas",
+    "lastName": "Seiwald",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Marko",
+    "lastName": "Arnautović",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "David",
+    "lastName": "Alaba",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Marcel",
+    "lastName": "Sabitzer",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Florian",
+    "lastName": "Grillitsch",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Michael",
+    "lastName": "Gregoritsch",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Florian",
+    "lastName": "Wiegele",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Patrick",
+    "lastName": "Pentz",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Saša",
+    "lastName": "Kalajdžić",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Philipp",
+    "lastName": "Lienhart",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Phillipp",
+    "lastName": "Mwene",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Carney",
+    "lastName": "Chukwuemeka",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Romano",
+    "lastName": "Schmid",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Konrad",
+    "lastName": "Laimer",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Patrick",
+    "lastName": "Wimmer",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Alexander",
+    "lastName": "Prass",
+    "positions": [
+      "LM",
+      "LW"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Marco",
+    "lastName": "Friedl",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Paul",
+    "lastName": "Wanner",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Michael",
+    "lastName": "Svoboda",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Austria",
+    "firstName": "Alessandro",
+    "lastName": "Schöpf",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Yazeed",
+    "lastName": "Abulaila",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mohammad",
+    "lastName": "Abu Hashish",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Abdallah",
+    "lastName": "Nasib",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Husam",
+    "lastName": "Abu Dahab",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Yazan",
+    "lastName": "Al-Arab",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Amer",
+    "lastName": "Jamous",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mohammad",
+    "lastName": "Abu Zrayq",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Noor",
+    "lastName": "Al-Rawabdeh",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Ali",
+    "lastName": "Olwan",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Musa",
+    "lastName": "Al-Taamari",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Odeh",
+    "lastName": "Al-Fakhouri",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Nour",
+    "lastName": "Bani Attiah",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mahmoud",
+    "lastName": "Al-Mardi",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Rajaei",
+    "lastName": "Ayed",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Ibrahim",
+    "lastName": "Sadeh",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mo",
+    "lastName": "Abualnadi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Salim",
+    "lastName": "Obaid",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Ibrahim",
+    "lastName": "Sabra",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Saed",
+    "lastName": "Al-Rosan",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mohannad",
+    "lastName": "Abu Taha",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Nizar",
+    "lastName": "Al-Rashdan",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Abdallah",
+    "lastName": "Al-Fakhouri",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Ihsan",
+    "lastName": "Haddad",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Ali",
+    "lastName": "Azaizeh",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Mohammad",
+    "lastName": "Al-Dawoud",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "firstName": "Anas",
+    "lastName": "Badawi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "David",
+    "lastName": "Ospina",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Daniel",
+    "lastName": "Muñoz",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jhon",
+    "lastName": "Lucumí",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Santiago",
+    "lastName": "Arias",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Kevin",
+    "lastName": "Castaño",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Richard",
+    "lastName": "Ríos",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Luis",
+    "lastName": "Díaz",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jorge",
+    "lastName": "Carrascal",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jhon",
+    "lastName": "Córdoba",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "James",
+    "lastName": "Rodríguez",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jhon",
+    "lastName": "Arias",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Camilo",
+    "lastName": "Vargas",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Yerry",
+    "lastName": "Mina",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Gustavo",
+    "lastName": "Puerta",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Juan",
+    "lastName": "Portilla",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jefferson",
+    "lastName": "Lerma",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Johan",
+    "lastName": "Mojica",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Willer",
+    "lastName": "Ditta",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Cucho",
+    "lastName": "Hernández",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Juan",
+    "lastName": "Fernando Quintero",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Jaminton",
+    "lastName": "Campaz",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Deiver",
+    "lastName": "Machado",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Davinson",
+    "lastName": "Sánchez",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Álvaro",
+    "lastName": "Montero",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Luis",
+    "lastName": "Suárez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "firstName": "Andrés",
+    "lastName": "Gómez",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Lionel",
+    "lastName": "Mpasi",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Aaron",
+    "lastName": "Wan-Bissaka",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Steve",
+    "lastName": "Kapuadi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Axel",
+    "lastName": "Tuanzebe",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Dylan",
+    "lastName": "Batubinsika",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Ngal'ayel",
+    "lastName": "Mukau",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Nathanaël",
+    "lastName": "Mbuku",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Samuel",
+    "lastName": "Moutoussamy",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Brian",
+    "lastName": "Cipenga",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Théo",
+    "lastName": "Bongonda",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Gaël",
+    "lastName": "Kakuta",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Joris",
+    "lastName": "Kayembe",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Meschak",
+    "lastName": "Elia",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Noah",
+    "lastName": "Sadiki",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Aaron",
+    "lastName": "Tshibola",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Timothy",
+    "lastName": "Fayulu",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Cédric",
+    "lastName": "Bakambu",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Charles",
+    "lastName": "Pickel",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Fiston",
+    "lastName": "Mayele",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Yoane",
+    "lastName": "Wissa",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Matthieu",
+    "lastName": "Epolo",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Chancel",
+    "lastName": "Mbemba",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Simon",
+    "lastName": "Banza",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Gédéon",
+    "lastName": "Kalulu",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Edo",
+    "lastName": "Kayembe",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "DR Congo",
+    "firstName": "Arthur",
+    "lastName": "Masuaku",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Diogo",
+    "lastName": "Costa",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Nélson",
+    "lastName": "Semedo",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Rúben",
+    "lastName": "Dias",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Tomás",
+    "lastName": "Araújo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Diogo",
+    "lastName": "Dalot",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Matheus",
+    "lastName": "Nunes",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Cristiano",
+    "lastName": "Ronaldo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Bruno",
+    "lastName": "Fernandes",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Gonçalo",
+    "lastName": "Ramos",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Bernardo",
+    "lastName": "Silva",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "João",
+    "lastName": "Félix",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "José",
+    "lastName": "Sá",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Renato",
+    "lastName": "Veiga",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Gonçalo",
+    "lastName": "Inácio",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "João",
+    "lastName": "Neves",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Francisco",
+    "lastName": "Trincão",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Rafael",
+    "lastName": "Leão",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Pedro",
+    "lastName": "Neto",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Gonçalo",
+    "lastName": "Guedes",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "João",
+    "lastName": "Cancelo",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Rúben",
+    "lastName": "Neves",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Rui",
+    "lastName": "Silva",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "",
+    "lastName": "Vitinha",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Samú",
+    "lastName": "Costa",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Nuno",
+    "lastName": "Mendes",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "firstName": "Francisco",
+    "lastName": "Conceição",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Utkir",
+    "lastName": "Yusupov",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Abdukodir",
+    "lastName": "Khusanov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Khojiakbar",
+    "lastName": "Alijonov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Farrukh",
+    "lastName": "Sayfiev",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Rustam",
+    "lastName": "Ashurmatov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Akmal",
+    "lastName": "Mozgovoy",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Otabek",
+    "lastName": "Shukurov",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Jamshid",
+    "lastName": "Iskanderov",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Odiljon",
+    "lastName": "Hamrobekov",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Jaloliddin",
+    "lastName": "Masharipov",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Oston",
+    "lastName": "Urunov",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Abduvohid",
+    "lastName": "Nematov",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Sherzod",
+    "lastName": "Nasrullaev",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Eldor",
+    "lastName": "Shomurodov",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Umar",
+    "lastName": "Eshmurodov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Botirali",
+    "lastName": "Ergashev",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Dostonbek",
+    "lastName": "Khamdamov",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Abdulla",
+    "lastName": "Abdullaev",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Azizjon",
+    "lastName": "Ganiev",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Azizbek",
+    "lastName": "Amonov",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Igor",
+    "lastName": "Sergeev",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Abbosbek",
+    "lastName": "Fayzullaev",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Sherzod",
+    "lastName": "Esanov",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Bekhruz",
+    "lastName": "Karimov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Avazbek",
+    "lastName": "Ulmasaliev",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "firstName": "Jakhongir",
+    "lastName": "Urozov",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Dominik",
+    "lastName": "Livaković",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Josip",
+    "lastName": "Stanišić",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Marin",
+    "lastName": "Pongračić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Joško",
+    "lastName": "Gvardiol",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Duje",
+    "lastName": "Ćaleta-Car",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Josip",
+    "lastName": "Šutalo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Nikola",
+    "lastName": "Moro",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Mateo",
+    "lastName": "Kovačić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Andrej",
+    "lastName": "Kramarić",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Luka",
+    "lastName": "Modrić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Ante",
+    "lastName": "Budimir",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Ivor",
+    "lastName": "Pandur",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Nikola",
+    "lastName": "Vlašić",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Ivan",
+    "lastName": "Perišić",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Mario",
+    "lastName": "Pašalić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Martin",
+    "lastName": "Baturina",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Petar",
+    "lastName": "Sučić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Kristijan",
+    "lastName": "Jakić",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Toni",
+    "lastName": "Fruk",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Igor",
+    "lastName": "Matanović",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Luka",
+    "lastName": "Sučić",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Luka",
+    "lastName": "Vušković",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Dominik",
+    "lastName": "Kotarski",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Marco",
+    "lastName": "Pašalić",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Martin",
+    "lastName": "Erlić",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "firstName": "Petar",
+    "lastName": "Musa",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Jordan",
+    "lastName": "Pickford",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Ezri",
+    "lastName": "Konsa",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Nico",
+    "lastName": "O'Reilly",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Declan",
+    "lastName": "Rice",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "John",
+    "lastName": "Stones",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Marc",
+    "lastName": "Guéhi",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Bukayo",
+    "lastName": "Saka",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Elliot",
+    "lastName": "Anderson",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Harry",
+    "lastName": "Kane",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Jude",
+    "lastName": "Bellingham",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Marcus",
+    "lastName": "Rashford",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Tino",
+    "lastName": "Livramento",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Dean",
+    "lastName": "Henderson",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Jordan",
+    "lastName": "Henderson",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Dan",
+    "lastName": "Burn",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Kobbie",
+    "lastName": "Mainoo",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Morgan",
+    "lastName": "Rogers",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Anthony",
+    "lastName": "Gordon",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Ollie",
+    "lastName": "Watkins",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Noni",
+    "lastName": "Madueke",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Eberechi",
+    "lastName": "Eze",
+    "positions": [
+      "CAM",
+      "CM"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Ivan",
+    "lastName": "Toney",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "James",
+    "lastName": "Trafford",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Reece",
+    "lastName": "James",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Djed",
+    "lastName": "Spence",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "England",
+    "firstName": "Jarell",
+    "lastName": "Quansah",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Lawrence",
+    "lastName": "Ati-Zigi",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Alidu",
+    "lastName": "Seidu",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Caleb",
+    "lastName": "Yirenkyi",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Jonas",
+    "lastName": "Adjetey",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Thomas",
+    "lastName": "Partey",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Abdul",
+    "lastName": "Mumin",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Abdul",
+    "lastName": "Fatawu",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Kwasi",
+    "lastName": "Sibo",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Jordan",
+    "lastName": "Ayew",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Brandon",
+    "lastName": "Thomas-Asante",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Antoine",
+    "lastName": "Semenyo",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Joseph",
+    "lastName": "Anang",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Christopher",
+    "lastName": "Bonsu Baah",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Gideon",
+    "lastName": "Mensah",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Elisha",
+    "lastName": "Owusu",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Benjamin",
+    "lastName": "Asare",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Abdul",
+    "lastName": "Rahman Baba",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Jerome",
+    "lastName": "Opoku",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Iñaki",
+    "lastName": "Williams",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Augustine",
+    "lastName": "Boakye",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Kojo",
+    "lastName": "Peprah Oppong",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Kamaldeen",
+    "lastName": "Sulemana",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Derrick",
+    "lastName": "Luckassen",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Ernest",
+    "lastName": "Nuamah",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Prince",
+    "lastName": "Kwabena Adu",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "firstName": "Marvin",
+    "lastName": "Senaya",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Luis",
+    "lastName": "Mejía",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "César",
+    "lastName": "Blackman",
+    "positions": [
+      "RB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "José",
+    "lastName": "Córdoba",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Fidel",
+    "lastName": "Escobar",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Edgardo",
+    "lastName": "Fariña",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Cristian",
+    "lastName": "Martínez",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "José",
+    "lastName": "Luis Rodríguez",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Adalberto",
+    "lastName": "Carrasquilla",
+    "positions": [
+      "CM"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Tomás",
+    "lastName": "Rodríguez",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Ismael",
+    "lastName": "Díaz",
+    "positions": [
+      "LW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Yoel",
+    "lastName": "Bárcenas",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "César",
+    "lastName": "Samudio",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Jiovany",
+    "lastName": "Ramos",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Carlos",
+    "lastName": "Harvey",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Eric",
+    "lastName": "Davis",
+    "positions": [
+      "LB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Andrés",
+    "lastName": "Andrade",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "José",
+    "lastName": "Fajardo",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Cecilio",
+    "lastName": "Waterman",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Alberto",
+    "lastName": "Quintero",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Aníbal",
+    "lastName": "Godoy",
+    "positions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "César",
+    "lastName": "Yanis",
+    "positions": [
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Orlando",
+    "lastName": "Mosquera",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Michael",
+    "lastName": "Amir Murillo",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Azarias",
+    "lastName": "Londoño",
+    "positions": [
+      "ST"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Roderick",
+    "lastName": "Miller",
+    "positions": [
+      "CB"
+    ]
+  },
+  {
+    "country": "Panama",
+    "firstName": "Jorge",
+    "lastName": "Gutiérrez",
+    "positions": [
+      "LB"
+    ]
+  }
+]
