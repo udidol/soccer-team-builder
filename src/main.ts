@@ -1,7 +1,9 @@
 import Choices from 'choices.js'
 import 'choices.js/public/assets/styles/choices.css'
+import './styles.scss'
 import { countryFlags } from './country-flags'
 import type { Player } from './types'
+import playerData from './player-data.json'
 
 const MIN_SEARCH_LENGTH = 2
 const DEFAULT_FLAG = '🏳️'
@@ -10,6 +12,8 @@ const STORAGE_KEY = 'soccer-team-builder-selections'
 let selectedPlayerIds = new Set<string>()
 const slotInstances: Record<string, Choices> = {}
 const slotPlayers: Record<string, Player[]> = {}
+let isRestoring = false
+let isRefreshing = false
 
 interface ChoiceItem {
   value: string
@@ -70,7 +74,9 @@ function refreshChoices(slotId: string): void {
   instance.setChoices(choices, 'value', 'label', false)
 
   if (currentValue) {
+    isRefreshing = true
     instance.setChoiceByValue(currentValue)
+    isRefreshing = false
   }
 }
 
@@ -82,6 +88,19 @@ function updateSelectedPlayers(): void {
       selectedPlayerIds.add(value)
     }
   })
+}
+
+function updateTooltip(slotId: string): void {
+  const instance = slotInstances[slotId]
+  if (!instance) return
+  const value = instance.getValue(true) as string
+  const player = value ? slotPlayers[slotId]?.find(p => getPlayerId(p) === value) : undefined
+  const el = instance.containerOuter.element
+  if (player) {
+    el.dataset.tooltip = `${player.country}\n${player.firstName} ${player.lastName}`
+  } else {
+    delete el.dataset.tooltip
+  }
 }
 
 function refreshAllOtherSlots(exceptSlotId: string): void {
@@ -122,7 +141,6 @@ function initializeSlot(selectEl: HTMLSelectElement, players: Player[]): void {
   slotPlayers[slotId] = positionPlayers
 
   const instance = new Choices(selectEl, {
-    choices: positionPlayers.map(p => createChoiceItem(p)),
     placeholder: true,
     placeholderValue: placeholder,
     searchEnabled: true,
@@ -134,81 +152,48 @@ function initializeSlot(selectEl: HTMLSelectElement, players: Player[]): void {
     noResultsText: 'No players found',
     noChoicesText: 'No players available',
     shouldSort: false,
-    searchFields: ['label'],
-    maxItemCount: 1
+    searchFields: ['label', 'customProperties.player.firstName'],
   })
+
+  instance.setChoices(positionPlayers.map(p => createChoiceItem(p)), 'value', 'label', false)
 
   slotInstances[slotId] = instance
 
-  const lockInput = () => {
-    instance.input.element.setAttribute('disabled', 'true')
-    instance.input.element.blur()
-    instance.containerOuter.element.addEventListener('click', blockDropdown, true)
-  }
-
-  const unlockInput = () => {
-    instance.input.element.removeAttribute('disabled')
-    instance.containerOuter.element.removeEventListener('click', blockDropdown, true)
-  }
-
-  const blockDropdown = (e: Event) => {
-    const target = e.target as HTMLElement
-    if (!target.classList.contains('choices__button')) {
-      e.stopPropagation()
-    }
-  }
-
   selectEl.addEventListener('change', () => {
+    if (isRestoring || isRefreshing) return
     updateSelectedPlayers()
     refreshAllOtherSlots(slotId)
     saveToLocalStorage()
-    if (instance.getValue(true)) {
-      lockInput()
-    }
+    updateTooltip(slotId)
   })
 
   selectEl.addEventListener('removeItem', () => {
+    if (isRestoring || isRefreshing) return
     updateSelectedPlayers()
     refreshAllOtherSlots(slotId)
     saveToLocalStorage()
-    unlockInput()
+    updateTooltip(slotId)
   })
-}
-
-async function loadPlayers(): Promise<Player[]> {
-  try {
-    const response = await fetch('player-data.json')
-    return await response.json()
-  } catch (error) {
-    console.error('Failed to load player data:', error)
-    return []
-  }
 }
 
 function restoreSelections(): void {
   const saved = loadFromLocalStorage()
 
+  isRestoring = true
   Object.entries(saved).forEach(([slotId, playerId]) => {
-    const instance = slotInstances[slotId]
-    if (instance) {
-      instance.setChoiceByValue(playerId)
-      instance.input.element.setAttribute('disabled', 'true')
-    }
+    slotInstances[slotId]?.setChoiceByValue(playerId)
   })
+  isRestoring = false
 
   updateSelectedPlayers()
   Object.keys(slotInstances).forEach(slotId => {
     refreshChoices(slotId)
+    updateTooltip(slotId)
   })
 }
 
-async function init(): Promise<void> {
-  const players = await loadPlayers()
-
-  if (players.length === 0) {
-    console.error('No players loaded')
-    return
-  }
+function init(): void {
+  const players = playerData as Player[]
 
   const selectElements = document.querySelectorAll<HTMLSelectElement>('.position-slot select')
   selectElements.forEach(selectEl => {
