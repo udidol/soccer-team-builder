@@ -153,7 +153,9 @@ body {
 
     &[data-type*='select-one'] {
       .choices__item[aria-selected] {
-        margin-right: 8px;
+        .choices__button {
+          margin-right: 8px;
+        }
       }
 
       .choices__item[data-placeholder] {
