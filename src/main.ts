@@ -197,10 +197,21 @@ function restoreSelections(): void {
 async function takeScreenshot(): Promise<void> {
   const field = document.querySelector('.field-container') as HTMLElement
   const canvas = await html2canvas(field, { backgroundColor: null })
-  const link = document.createElement('a')
-  link.download = 'team-lineup.png'
-  link.href = canvas.toDataURL('image/png')
-  link.click()
+
+  const blob = await new Promise<Blob>(resolve =>
+    canvas.toBlob(b => resolve(b!), 'image/png')
+  )
+  const file = new File([blob], 'team-lineup.png', { type: 'image/png' })
+
+  if (navigator.canShare?.({ files: [file] })) {
+    await navigator.share({ files: [file] })
+  } else {
+    const link = document.createElement('a')
+    link.download = 'team-lineup.png'
+    link.href = URL.createObjectURL(blob)
+    link.click()
+    URL.revokeObjectURL(link.href)
+  }
 }
 
 function setupScreenshotButton(): void {
