@@ -4,6 +4,8 @@ import './styles.scss'
 import { countryFlags } from './country-flags'
 import type { Player } from './types'
 import playerData from './player-data.json'
+import html2canvas from 'html2canvas'
+import screenshotSvg from './screenshot.svg?raw'
 
 const MIN_SEARCH_LENGTH = 2
 const DEFAULT_FLAG = '🏳️'
@@ -192,6 +194,23 @@ function restoreSelections(): void {
   })
 }
 
+async function takeScreenshot(): Promise<void> {
+  const field = document.querySelector('.field-container') as HTMLElement
+  const canvas = await html2canvas(field, { backgroundColor: null })
+  const link = document.createElement('a')
+  link.download = 'team-lineup.png'
+  link.href = canvas.toDataURL('image/png')
+  link.click()
+}
+
+function setupScreenshotButton(): void {
+  const btn = document.createElement('button')
+  btn.className = 'screenshot-btn'
+  btn.innerHTML = screenshotSvg
+  btn.addEventListener('click', takeScreenshot)
+  document.body.appendChild(btn)
+}
+
 function init(): void {
   const players = playerData as Player[]
 
@@ -201,6 +220,7 @@ function init(): void {
   })
 
   restoreSelections()
+  setupScreenshotButton()
 }
 
 init()

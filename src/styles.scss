@@ -98,6 +98,34 @@ body {
   pointer-events: none;
 }
 
+.screenshot-btn {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  opacity: 0.6;
+  z-index: 1000;
+  transition: opacity 0.15s;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  svg {
+    width: 100%;
+    height: 100%;
+
+    path:not([fill='none']) {
+      fill: white;
+    }
+  }
+}
+
 .position-slot {
   position: absolute;
   transform: translate(-50%, -50%);
