@@ -194,6 +194,51 @@ function restoreSelections(): void {
   })
 }
 
+function clearTeam(): void {
+  isRestoring = true
+  Object.values(slotInstances).forEach(instance => instance.removeActiveItems())
+  isRestoring = false
+
+  selectedPlayerIds.clear()
+  localStorage.removeItem(STORAGE_KEY)
+
+  Object.keys(slotInstances).forEach(slotId => {
+    refreshChoices(slotId)
+    updateTooltip(slotId)
+  })
+}
+
+function showClearModal(): void {
+  const overlay = document.createElement('div')
+  overlay.className = 'modal-overlay'
+  overlay.innerHTML = `
+    <div class="modal">
+      <p class="modal__message">Clear all selections?</p>
+      <div class="modal__actions">
+        <button class="modal__btn modal__btn--cancel">Cancel</button>
+        <button class="modal__btn modal__btn--confirm">Clear Team</button>
+      </div>
+    </div>
+  `
+  overlay.querySelector('.modal__btn--cancel')!.addEventListener('click', () => overlay.remove())
+  overlay.querySelector('.modal__btn--confirm')!.addEventListener('click', () => {
+    overlay.remove()
+    clearTeam()
+  })
+  overlay.addEventListener('click', e => {
+    if (e.target === overlay) overlay.remove()
+  })
+  document.body.appendChild(overlay)
+}
+
+function setupClearButton(): void {
+  const btn = document.createElement('button')
+  btn.className = 'clear-btn'
+  btn.textContent = 'Clear All selections'
+  btn.addEventListener('click', showClearModal)
+  document.body.appendChild(btn)
+}
+
 async function takeScreenshot(): Promise<void> {
   const field = document.querySelector('.field-container') as HTMLElement
   const canvas = await html2canvas(field, { backgroundColor: null })
@@ -231,6 +276,7 @@ function init(): void {
   })
 
   restoreSelections()
+  setupClearButton()
   setupScreenshotButton()
 }
 
