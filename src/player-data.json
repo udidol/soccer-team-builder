@@ -226,7 +226,9 @@
     "firstName": "Jorge",
     "lastName": "Sánchez",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "CB"
     ]
   },
   {
@@ -244,7 +246,8 @@
     "positions": [
       "CB",
       "CDM",
-      "CM"
+      "CM",
+      "RB"
     ]
   },
   {
@@ -252,7 +255,8 @@
     "firstName": "Johan",
     "lastName": "Vásquez",
     "positions": [
-      "CB"
+      "CB",
+      "LB"
     ]
   },
   {
@@ -269,7 +273,9 @@
     "firstName": "Luis",
     "lastName": "Romo",
     "positions": [
-      "CB"
+      "CB",
+      "CDM",
+      "CM"
     ]
   },
   {
@@ -277,7 +283,9 @@
     "firstName": "Álvaro",
     "lastName": "Fidalgo",
     "positions": [
-      "CM"
+      "CM",
+      "CAM",
+      "LW"
     ]
   },
   {
@@ -294,7 +302,9 @@
     "lastName": "Vega",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -334,7 +344,9 @@
     "firstName": "Israel",
     "lastName": "Reyes",
     "positions": [
-      "RB"
+      "RB",
+      "CB",
+      "CDM"
     ]
   },
   {
@@ -342,7 +354,10 @@
     "firstName": "Julián",
     "lastName": "Quiñones",
     "positions": [
-      "ST"
+      "ST",
+      "LW",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -350,7 +365,10 @@
     "firstName": "Orbelín",
     "lastName": "Pineda",
     "positions": [
-      "CM"
+      "CM",
+      "CAM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -384,7 +402,8 @@
     "lastName": "Huerta",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -400,7 +419,9 @@
     "firstName": "Jesús",
     "lastName": "Gallardo",
     "positions": [
-      "LB"
+      "LB",
+      "LM",
+      "LW"
     ]
   },
   {
@@ -418,7 +439,9 @@
     "lastName": "Alvarado",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "CAM"
     ]
   },
   {
@@ -427,7 +450,8 @@
     "lastName": "Gutiérrez",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW"
     ]
   },
   {
@@ -689,7 +713,8 @@
     "lastName": "In-beom",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -698,7 +723,9 @@
     "lastName": "Heung-min",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -723,7 +750,9 @@
     "lastName": "Jae-sung",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "RW",
+      "LW"
     ]
   },
   {
@@ -731,7 +760,9 @@
     "firstName": "Hwang",
     "lastName": "Hee-chan",
     "positions": [
-      "ST"
+      "ST",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -781,7 +812,8 @@
     "lastName": "Jun-ho",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW"
     ]
   },
   {
@@ -798,7 +830,9 @@
     "lastName": "Kang-in",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "RW",
+      "LW"
     ]
   },
   {
@@ -807,7 +841,8 @@
     "lastName": "Hyun-jun",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW"
     ]
   },
   {
@@ -823,7 +858,8 @@
     "firstName": "Seol",
     "lastName": "Young-woo",
     "positions": [
-      "RB"
+      "RB",
+      "LB"
     ]
   },
   {
@@ -1088,7 +1124,8 @@
     "firstName": "Alistair",
     "lastName": "Johnston",
     "positions": [
-      "RB"
+      "RB",
+      "CB"
     ]
   },
   {
@@ -1120,7 +1157,9 @@
     "firstName": "Mathieu",
     "lastName": "Choinière",
     "positions": [
-      "CM"
+      "CM",
+      "RB",
+      "LB"
     ]
   },
   {
@@ -1161,7 +1200,9 @@
     "lastName": "Millar",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "LWB"
     ]
   },
   {
@@ -1186,7 +1227,9 @@
     "lastName": "Shaffelburg",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "LWB"
     ]
   },
   {
@@ -1211,7 +1254,10 @@
     "lastName": "Buchanan",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "RM",
+      "RB",
+      "LB"
     ]
   },
   {
@@ -1227,7 +1273,9 @@
     "firstName": "Alphonso",
     "lastName": "Davies",
     "positions": [
-      "LB"
+      "LB",
+      "LM",
+      "LW"
     ]
   },
   {
@@ -1252,7 +1300,10 @@
     "firstName": "Richie",
     "lastName": "Laryea",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "RM",
+      "LM"
     ]
   },
   {
@@ -1517,7 +1568,8 @@
     "firstName": "Silvan",
     "lastName": "Widmer",
     "positions": [
-      "RB"
+      "RB",
+      "RWB"
     ]
   },
   {
@@ -1533,7 +1585,9 @@
     "firstName": "Manuel",
     "lastName": "Akanji",
     "positions": [
-      "CB"
+      "CB",
+      "RB",
+      "LB"
     ]
   },
   {
@@ -1542,7 +1596,8 @@
     "lastName": "Zakaria",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -1584,7 +1639,10 @@
     "lastName": "Ndoye",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "RWB",
+      "LWB"
     ]
   },
   {
@@ -1600,7 +1658,8 @@
     "firstName": "Ricardo",
     "lastName": "Rodriguez",
     "positions": [
-      "LB"
+      "LB",
+      "CB"
     ]
   },
   {
@@ -1635,7 +1694,9 @@
     "lastName": "Vargas",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -1652,7 +1713,8 @@
     "lastName": "Okafor",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -1660,7 +1722,9 @@
     "firstName": "Michel",
     "lastName": "Aebischer",
     "positions": [
-      "CM"
+      "CM",
+      "LM",
+      "RM"
     ]
   },
   {
@@ -1677,7 +1741,9 @@
     "lastName": "Rieder",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "RW",
+      "LW"
     ]
   },
   {
@@ -1742,7 +1808,9 @@
     "firstName": "",
     "lastName": "Marquinhos",
     "positions": [
-      "CB"
+      "CB",
+      "RB",
+      "CDM"
     ]
   },
   {
@@ -1751,7 +1819,8 @@
     "lastName": "Casemiro",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -1759,8 +1828,9 @@
     "firstName": "Alex",
     "lastName": "Sandro",
     "positions": [
-      "CDM",
-      "CM"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -1768,8 +1838,8 @@
     "firstName": "Vinícius",
     "lastName": "Júnior",
     "positions": [
-      "CAM",
-      "CM"
+      "LW",
+      "ST"
     ]
   },
   {
@@ -1795,7 +1865,9 @@
     "lastName": "Neymar",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "ST"
     ]
   },
   {
@@ -1804,7 +1876,9 @@
     "lastName": "Raphinha",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -1821,7 +1895,10 @@
     "lastName": "Luiz",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "RB",
+      "CB",
+      "LB"
     ]
   },
   {
@@ -1845,7 +1922,9 @@
     "firstName": "Douglas",
     "lastName": "Santos",
     "positions": [
-      "LB"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -1854,7 +1933,9 @@
     "lastName": "Fabinho",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB",
+      "RB"
     ]
   },
   {
@@ -1862,7 +1943,10 @@
     "firstName": "Danilo",
     "lastName": "Santos",
     "positions": [
-      "CB"
+      "CB",
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -1879,7 +1963,9 @@
     "lastName": "Paquetá",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -1896,7 +1982,8 @@
     "lastName": "Martinelli",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -1904,8 +1991,7 @@
     "firstName": "",
     "lastName": "Ederson",
     "positions": [
-      "CAM",
-      "CM"
+      "GK"
     ]
   },
   {
@@ -2163,7 +2249,11 @@
     "firstName": "Achraf",
     "lastName": "Hakimi",
     "positions": [
-      "RB"
+      "RB",
+      "RWB",
+      "LB",
+      "LWB",
+      "RW"
     ]
   },
   {
@@ -2171,7 +2261,9 @@
     "firstName": "Noussair",
     "lastName": "Mazraoui",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "CDM"
     ]
   },
   {
@@ -2180,7 +2272,8 @@
     "lastName": "Amrabat",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -2213,7 +2306,8 @@
     "firstName": "Azzedine",
     "lastName": "Ounahi",
     "positions": [
-      "CM"
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -2222,7 +2316,8 @@
     "lastName": "Rahimi",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -2231,7 +2326,9 @@
     "lastName": "Díaz",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "CAM",
+      "LW"
     ]
   },
   {
@@ -2290,7 +2387,8 @@
     "lastName": "Ezzalzouli",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -2589,7 +2687,8 @@
     "firstName": "Miloš",
     "lastName": "Degenek",
     "positions": [
-      "CB"
+      "CB",
+      "RB"
     ]
   },
   {
@@ -2613,7 +2712,9 @@
     "firstName": "Jordan",
     "lastName": "Bos",
     "positions": [
-      "LB"
+      "LB",
+      "LM",
+      "LW"
     ]
   },
   {
@@ -2630,7 +2731,9 @@
     "lastName": "Leckie",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "RWB"
     ]
   },
   {
@@ -2654,7 +2757,8 @@
     "firstName": "Ajdin",
     "lastName": "Hrustic",
     "positions": [
-      "CM"
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -2705,7 +2809,9 @@
     "firstName": "Aziz",
     "lastName": "Behich",
     "positions": [
-      "LB"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -2755,7 +2861,9 @@
     "firstName": "Jackson",
     "lastName": "Irvine",
     "positions": [
-      "CM"
+      "CM",
+      "CDM",
+      "CAM"
     ]
   },
   {
@@ -3239,7 +3347,9 @@
     "firstName": "Sergiño",
     "lastName": "Dest",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "RW"
     ]
   },
   {
@@ -3247,7 +3357,9 @@
     "firstName": "Chris",
     "lastName": "Richards",
     "positions": [
-      "CB"
+      "CB",
+      "RB",
+      "LB"
     ]
   },
   {
@@ -3256,7 +3368,8 @@
     "lastName": "Adams",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "RB"
     ]
   },
   {
@@ -3281,7 +3394,9 @@
     "lastName": "Reyna",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -3289,7 +3404,10 @@
     "firstName": "Weston",
     "lastName": "McKennie",
     "positions": [
-      "CM"
+      "CM",
+      "RM",
+      "RB",
+      "CAM"
     ]
   },
   {
@@ -3306,7 +3424,9 @@
     "lastName": "Pulisic",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "CAM"
     ]
   },
   {
@@ -3315,7 +3435,9 @@
     "lastName": "Aaronson",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -3381,7 +3503,8 @@
     "firstName": "Haji",
     "lastName": "Wright",
     "positions": [
-      "ST"
+      "ST",
+      "LW"
     ]
   },
   {
@@ -3398,7 +3521,10 @@
     "lastName": "Weah",
     "positions": [
       "RM",
-      "RW"
+      "RW",
+      "RB",
+      "RWB",
+      "ST"
     ]
   },
   {
@@ -3414,7 +3540,8 @@
     "firstName": "Joe",
     "lastName": "Scally",
     "positions": [
-      "RB"
+      "RB",
+      "LB"
     ]
   },
   {
@@ -3682,7 +3809,8 @@
     "firstName": "Piero",
     "lastName": "Hincapié",
     "positions": [
-      "CB"
+      "CB",
+      "LB"
     ]
   },
   {
@@ -3715,7 +3843,9 @@
     "firstName": "Pervis",
     "lastName": "Estupiñán",
     "positions": [
-      "LB"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -3801,7 +3931,9 @@
     "firstName": "Ángelo",
     "lastName": "Preciado",
     "positions": [
-      "RB"
+      "RB",
+      "RWB",
+      "RW"
     ]
   },
   {
@@ -3926,7 +4058,8 @@
     "lastName": "Kimmich",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "RB"
     ]
   },
   {
@@ -3935,7 +4068,9 @@
     "lastName": "Havertz",
     "positions": [
       "ST",
-      "CAM"
+      "CAM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -3943,7 +4078,9 @@
     "firstName": "Leon",
     "lastName": "Goretzka",
     "positions": [
-      "CM"
+      "CM",
+      "CDM",
+      "CB"
     ]
   },
   {
@@ -3961,7 +4098,9 @@
     "lastName": "Musiala",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -3985,7 +4124,10 @@
     "firstName": "Pascal",
     "lastName": "Groß",
     "positions": [
-      "CM"
+      "CM",
+      "CDM",
+      "RB",
+      "LB"
     ]
   },
   {
@@ -4019,7 +4161,9 @@
     "lastName": "Wirtz",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -4036,7 +4180,9 @@
     "lastName": "Sané",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "CAM"
     ]
   },
   {
@@ -4060,7 +4206,9 @@
     "firstName": "David",
     "lastName": "Raum",
     "positions": [
-      "LB"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -4325,7 +4473,8 @@
     "firstName": "Yukinari",
     "lastName": "Sugawara",
     "positions": [
-      "RB"
+      "RB",
+      "RW"
     ]
   },
   {
@@ -4358,7 +4507,8 @@
     "lastName": "Endo",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -4375,7 +4525,9 @@
     "lastName": "Kubo",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "CAM"
     ]
   },
   {
@@ -4427,7 +4579,8 @@
     "lastName": "Itō",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "RWB"
     ]
   },
   {
@@ -4436,7 +4589,8 @@
     "lastName": "Kamada",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "LW"
     ]
   },
   {
@@ -4486,7 +4640,9 @@
     "firstName": "Hiroki",
     "lastName": "Itō",
     "positions": [
-      "CB"
+      "CB",
+      "RW",
+      "RWB"
     ]
   },
   {
@@ -4494,7 +4650,9 @@
     "firstName": "Takehiro",
     "lastName": "Tomiyasu",
     "positions": [
-      "RB"
+      "RB",
+      "CB",
+      "LB"
     ]
   },
   {
@@ -4568,7 +4726,8 @@
     "firstName": "Nathan",
     "lastName": "Aké",
     "positions": [
-      "CB"
+      "CB",
+      "LB"
     ]
   },
   {
@@ -4621,7 +4780,8 @@
     "lastName": "Gakpo",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "CAM"
     ]
   },
   {
@@ -4696,7 +4856,9 @@
     "lastName": "Koopmeiners",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CAM",
+      "CB"
     ]
   },
   {
@@ -4704,7 +4866,9 @@
     "firstName": "Frenkie",
     "lastName": "de Jong",
     "positions": [
-      "CM"
+      "CM",
+      "CDM",
+      "CB"
     ]
   },
   {
@@ -4712,7 +4876,9 @@
     "firstName": "Denzel",
     "lastName": "Dumfries",
     "positions": [
-      "RB"
+      "RB",
+      "RWB",
+      "RM"
     ]
   },
   {
@@ -5202,7 +5368,8 @@
     "firstName": "Arthur",
     "lastName": "Theate",
     "positions": [
-      "CB"
+      "CB",
+      "LB"
     ]
   },
   {
@@ -5244,7 +5411,8 @@
     "firstName": "Youri",
     "lastName": "Tielemans",
     "positions": [
-      "CM"
+      "CM",
+      "CDM"
     ]
   },
   {
@@ -5261,7 +5429,9 @@
     "lastName": "Trossard",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "CAM",
+      "LM"
     ]
   },
   {
@@ -5354,7 +5524,10 @@
     "firstName": "Timothy",
     "lastName": "Castagne",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "RWB",
+      "LWB"
     ]
   },
   {
@@ -5455,7 +5628,9 @@
     "lastName": "Trézéguet",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW",
+      "LM"
     ]
   },
   {
@@ -5578,7 +5753,9 @@
     "firstName": "Omar",
     "lastName": "Marmoush",
     "positions": [
-      "ST"
+      "ST",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -6495,7 +6672,9 @@
     "firstName": "Álex",
     "lastName": "Grimaldo",
     "positions": [
-      "LB"
+      "LB",
+      "LWB",
+      "LM"
     ]
   },
   {
@@ -6511,7 +6690,10 @@
     "firstName": "Marcos",
     "lastName": "Llorente",
     "positions": [
-      "RB"
+      "RB",
+      "RM",
+      "CM",
+      "ST"
     ]
   },
   {
@@ -6543,7 +6725,8 @@
     "firstName": "",
     "lastName": "Gavi",
     "positions": [
-      "CM"
+      "CM",
+      "LW"
     ]
   },
   {
@@ -6602,7 +6785,8 @@
     "firstName": "",
     "lastName": "Rodri",
     "positions": [
-      "CB"
+      "CB",
+      "CDM"
     ]
   },
   {
@@ -6611,7 +6795,8 @@
     "lastName": "Williams",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -6637,7 +6822,8 @@
     "firstName": "",
     "lastName": "Pedri",
     "positions": [
-      "CM"
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -6718,7 +6904,8 @@
     "firstName": "Ronald",
     "lastName": "Araújo",
     "positions": [
-      "CB"
+      "CB",
+      "RB"
     ]
   },
   {
@@ -6744,7 +6931,10 @@
     "firstName": "Nicolás",
     "lastName": "de la Cruz",
     "positions": [
-      "CM"
+      "CM",
+      "CAM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -6752,7 +6942,10 @@
     "firstName": "Federico",
     "lastName": "Valverde",
     "positions": [
-      "CM"
+      "CM",
+      "RM",
+      "RW",
+      "RB"
     ]
   },
   {
@@ -6760,7 +6953,8 @@
     "firstName": "Darwin",
     "lastName": "Núñez",
     "positions": [
-      "ST"
+      "ST",
+      "LW"
     ]
   },
   {
@@ -6820,7 +7014,8 @@
     "firstName": "Mathías",
     "lastName": "Olivera",
     "positions": [
-      "LB"
+      "LB",
+      "CB"
     ]
   },
   {
@@ -6853,7 +7048,8 @@
     "firstName": "Maximiliano",
     "lastName": "Araújo",
     "positions": [
-      "CB"
+      "CB",
+      "RB"
     ]
   },
   {
@@ -6942,7 +7138,8 @@
     "firstName": "Jules",
     "lastName": "Koundé",
     "positions": [
-      "RB"
+      "RB",
+      "CB"
     ]
   },
   {
@@ -6958,7 +7155,9 @@
     "firstName": "Ousmane",
     "lastName": "Dembélé",
     "positions": [
-      "ST"
+      "ST",
+      "RW",
+      "LW"
     ]
   },
   {
@@ -6967,7 +7166,8 @@
     "lastName": "Tchouaméni",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -6983,7 +7183,8 @@
     "firstName": "Kylian",
     "lastName": "Mbappé",
     "positions": [
-      "ST"
+      "ST",
+      "LW"
     ]
   },
   {
@@ -7058,7 +7259,8 @@
     "firstName": "Théo",
     "lastName": "Hernandez",
     "positions": [
-      "LB"
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -7075,7 +7277,8 @@
     "firstName": "Lucas",
     "lastName": "Hernandez",
     "positions": [
-      "LB"
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -7390,7 +7593,8 @@
     "firstName": "Alexander",
     "lastName": "Sørloth",
     "positions": [
-      "ST"
+      "ST",
+      "RW"
     ]
   },
   {
@@ -7548,7 +7752,10 @@
     "firstName": "Julian",
     "lastName": "Ryerson",
     "positions": [
-      "RB"
+      "RB",
+      "LB",
+      "RWB",
+      "LWB"
     ]
   },
   {
@@ -8029,7 +8236,9 @@
     "firstName": "Lisandro",
     "lastName": "Martínez",
     "positions": [
-      "CB"
+      "CB",
+      "LB",
+      "CDM"
     ]
   },
   {
@@ -8037,7 +8246,9 @@
     "firstName": "Rodrigo",
     "lastName": "De Paul",
     "positions": [
-      "CM"
+      "CM",
+      "RM",
+      "RW"
     ]
   },
   {
@@ -8053,7 +8264,10 @@
     "firstName": "Julián",
     "lastName": "Alvarez",
     "positions": [
-      "ST"
+      "ST",
+      "LW",
+      "RW",
+      "CAM"
     ]
   },
   {
@@ -8062,7 +8276,8 @@
     "lastName": "Messi",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "CAM"
     ]
   },
   {
@@ -8103,7 +8318,11 @@
     "firstName": "Nicolás",
     "lastName": "González",
     "positions": [
-      "CM"
+      "CM",
+      "LW",
+      "RW",
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -8146,7 +8365,9 @@
     "firstName": "Alexis",
     "lastName": "Mac Allister",
     "positions": [
-      "CM"
+      "CM",
+      "CDM",
+      "CAM"
     ]
   },
   {
@@ -8162,7 +8383,10 @@
     "firstName": "Lautaro",
     "lastName": "Martínez",
     "positions": [
-      "ST"
+      "ST",
+      "CB",
+      "LB",
+      "CDM"
     ]
   },
   {
@@ -8170,7 +8394,10 @@
     "firstName": "Emiliano",
     "lastName": "Martínez",
     "positions": [
-      "GK"
+      "GK",
+      "CB",
+      "LB",
+      "CDM"
     ]
   },
   {
@@ -8194,7 +8421,8 @@
     "firstName": "Nahuel",
     "lastName": "Molina",
     "positions": [
-      "RB"
+      "RB",
+      "RWB"
     ]
   },
   {
@@ -8259,7 +8487,10 @@
     "firstName": "David",
     "lastName": "Alaba",
     "positions": [
-      "CB"
+      "CB",
+      "LB",
+      "CDM",
+      "CM"
     ]
   },
   {
@@ -8267,7 +8498,10 @@
     "firstName": "Marcel",
     "lastName": "Sabitzer",
     "positions": [
-      "CM"
+      "CM",
+      "CAM",
+      "LW",
+      "RW"
     ]
   },
   {
@@ -8349,7 +8583,9 @@
     "firstName": "Konrad",
     "lastName": "Laimer",
     "positions": [
-      "RB"
+      "RB",
+      "CM",
+      "CDM"
     ]
   },
   {
@@ -8626,7 +8862,8 @@
     "firstName": "Daniel",
     "lastName": "Muñoz",
     "positions": [
-      "RB"
+      "RB",
+      "RWB"
     ]
   },
   {
@@ -8745,7 +8982,8 @@
     "lastName": "Lerma",
     "positions": [
       "CDM",
-      "CM"
+      "CM",
+      "CB"
     ]
   },
   {
@@ -9100,7 +9338,8 @@
     "lastName": "Ronaldo",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW"
     ]
   },
   {
@@ -9126,7 +9365,8 @@
     "lastName": "Silva",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "RW"
     ]
   },
   {
@@ -9213,7 +9453,11 @@
     "lastName": "Cancelo",
     "positions": [
       "RB",
-      "LB"
+      "LB",
+      "RWB",
+      "LWB",
+      "RM",
+      "LM"
     ]
   },
   {
@@ -9230,7 +9474,10 @@
     "firstName": "Rui",
     "lastName": "Silva",
     "positions": [
-      "GK"
+      "GK",
+      "RW",
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -9256,7 +9503,8 @@
     "firstName": "Nuno",
     "lastName": "Mendes",
     "positions": [
-      "LB"
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -9511,7 +9759,8 @@
     "firstName": "Joško",
     "lastName": "Gvardiol",
     "positions": [
-      "CB"
+      "CB",
+      "LB"
     ]
   },
   {
@@ -9544,7 +9793,8 @@
     "firstName": "Mateo",
     "lastName": "Kovačić",
     "positions": [
-      "CM"
+      "CM",
+      "CDM"
     ]
   },
   {
@@ -9561,7 +9811,8 @@
     "firstName": "Luka",
     "lastName": "Modrić",
     "positions": [
-      "CM"
+      "CM",
+      "CAM"
     ]
   },
   {
@@ -9595,7 +9846,10 @@
     "lastName": "Perišić",
     "positions": [
       "LW",
-      "ST"
+      "ST",
+      "LM",
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -9603,7 +9857,9 @@
     "firstName": "Mario",
     "lastName": "Pašalić",
     "positions": [
-      "CM"
+      "CM",
+      "CAM",
+      "ST"
     ]
   },
   {
@@ -9679,7 +9935,9 @@
     "lastName": "Pašalić",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "CAM",
+      "CM"
     ]
   },
   {
@@ -9735,7 +9993,8 @@
     "firstName": "John",
     "lastName": "Stones",
     "positions": [
-      "CB"
+      "CB",
+      "CDM"
     ]
   },
   {
@@ -9752,7 +10011,10 @@
     "lastName": "Saka",
     "positions": [
       "RW",
-      "ST"
+      "ST",
+      "LW",
+      "LB",
+      "LWB"
     ]
   },
   {
@@ -9777,7 +10039,8 @@
     "lastName": "Bellingham",
     "positions": [
       "CAM",
-      "CM"
+      "CM",
+      "ST"
     ]
   },
   {
