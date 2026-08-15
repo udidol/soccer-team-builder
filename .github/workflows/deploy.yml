@@ -23,6 +23,8 @@ jobs:
         run: npm ci
 
       - name: Build
+        env:
+          CANONICAL_URL: ${{ vars.CANONICAL }}
         run: npm run build
 
       - name: Deploy via rsync
