@@ -1,5 +1,9 @@
 # Soccer Team Builder
 
+<div align="center">  
+<img style="height: 500px" alt="world-cup-fantasy-team-builder" src="https://github.com/user-attachments/assets/17a97d31-c928-4c55-951a-0619c9c89b79" />
+</div>
+
 A minimal, browser-based tool for building a soccer starting lineup from a curated player database. Pick players by position, share your lineup as an image, and come back later — selections are saved automatically on device (LocalStorage).
 
 <!-- screenshot goes here -->
